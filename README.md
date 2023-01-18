@@ -135,8 +135,7 @@ def rectarea(request):
 ![OUTPUT](./out10.png)
 
 ### Home Page:
-![Home Page](./home1.png)
-
+![Home Page](./home.png)
 
 ## Result:
 The program for implementing server side processing is completed successfully.
