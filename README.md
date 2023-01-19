@@ -26,12 +26,10 @@ Create a HTML file of forms
 
 
 ### Step 6:
-
 Publish the website in the given URL.
 
 ## PROGRAM :
 ```
-
 math.html
 
 <html>
